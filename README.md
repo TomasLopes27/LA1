@@ -1,4 +1,4 @@
-# Otherwordly-LI2
+# Otherwordly-LI1
 
 This game is a Roguelite, in C, that was made for IT Labs 1, subject of the first year of Computer Science.
 
